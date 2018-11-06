@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Implemantation\Observers\CurrentConditionsReport.cs" />
     <Compile Include="Implemantation\Observers\StatisticReport.cs" />
+    <Compile Include="Implemantation\SendingDataSimulator.cs" />
     <Compile Include="Observer Interface\EventInfo.cs" />
     <Compile Include="Observer Interface\IObservable.cs" />
     <Compile Include="Observer Interface\IObserver.cs" />
